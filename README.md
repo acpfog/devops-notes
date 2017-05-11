@@ -1,2 +1,2 @@
-# my-notes
-My notes about maintaining and troubleshooting Linux
+
+I store here my notes about Linux (maintaining/troubleshooting) and doing some DevOps tasks
